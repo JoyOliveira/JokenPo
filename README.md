@@ -6,4 +6,5 @@ Simulador de jogo JokenPo em Java (Usuário X Computador)
 
 Fontes:
 Curso - Java completo 2020 Programação Orientada a Objetos - Udemy
+
 https://pt.wikihow.com/Fazer-um-Jogo-Pedra,-Papel-e-Tesoura-em-Java
